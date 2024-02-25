@@ -13,3 +13,5 @@
 6.请确保你的系统为windows否则会出现BUG
 
 7.请确保你的文件没有缺失，如有缺失，请上https://github.com/eeee23/EnglishLearning 补全
+
+8.请注意，jizhu.pc3和nojizhu.pc3如果是空的时，请背一些单词
